@@ -1,4 +1,4 @@
-# Video Player
+# Book List
 
 This simple app displays a list of books for a user to browse through.  It was created as part of Stephen Grider's React/Redux course to serve as a refresher on redux.
 
